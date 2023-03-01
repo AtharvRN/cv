@@ -1,0 +1,29 @@
+body{
+    background-color: #ECF2FF;
+  }
+  hr{
+    /* background-color: rgba(25, 31, 34, 0.781); */
+    border-style: none;
+    border-color: royalblue;
+    border-style: dotted;
+    border-width: 2px;
+    width: 10%;
+  }
+  img{
+
+    width: 300px;
+    height: 280px;
+    background-color: black;
+  }
+  img:hover{
+
+    width: 600px;
+    height: 560px;
+    background-color: black;
+  }
+  h1{
+    color: #66BFBF;
+  }
+  h3{
+    color: #66BFBF;
+  }
